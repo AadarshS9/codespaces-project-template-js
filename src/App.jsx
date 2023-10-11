@@ -11,6 +11,7 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
+import Education from "./Components/Education";
 
 import "./styles.css";
 
@@ -23,6 +24,8 @@ import "./styles.css";
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
+<Education />
+
 const siteProps = {
   name: "Aadarsh Suresh",
   title: "Aspiring Designer & Developer",
